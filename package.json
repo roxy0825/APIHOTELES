@@ -1,0 +1,19 @@
+{
+  "name": "apihoteles",
+  "version": "1.0.0",
+  "description": "api para la gestion de habitaciones y reservas en un hotel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "cesde"
+  ],
+  "author": "RGS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
